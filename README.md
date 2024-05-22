@@ -1,0 +1,1 @@
+# Pattern-1-Right-angled-Triangle
